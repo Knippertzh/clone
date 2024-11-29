@@ -1,0 +1,44 @@
+{
+  "name": "Michael Mohr",
+  "image": "https://cdn.prod.www.manager-magazin.de/images/fb09bcd7-0001-0005-0000-000000093723_w135_r0.75_fpx49.63_fpy37.23.jpg",
+  "currentRole": "CEO and Founder of Plugilo",
+  "email": "info@dci.de",
+  "phone": "+49-177-7776647",
+  "description": "Michael Mohr is an internet pioneer in Germany with more than 30 years of experience since the beginning of the internet. He is the CEO of Plugilo and DCI AG, focusing on developing innovative digital solutions for the global e-commerce market.",
+  "workHistory": [
+    {
+      "company": "Plugilo Inc.",
+      "position": "Founder and CEO",
+      "period": "January 2022 - Present"
+    },
+    {
+      "company": "DCI AG",
+      "position": "CEO and Founder",
+      "period": "January 1993 - Present"
+    },
+    {
+      "company": "TM1 trademark one AG",
+      "position": "Member of the Supervisory Board",
+      "period": "Current"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Philip-Morris Prize",
+      "year": "1990",
+      "description": "Recognition for innovation"
+    },
+    {
+      "name": "eBusiness Award from IBM/ZDF",
+      "year": "1998",
+      "description": "Excellence in digital business"
+    }
+  ],
+  "vision": "To develop plugilo into a global B2B network with similar size and market relevance as Facebook or LinkedIn, targeting 80% of the world's e-commerce market.",
+  "recentDevelopments": [
+    "Secured <link type='management' id='michael-urban'>Michael Urban</link> as key investor and new shareholder",
+    "Expansion into US market with appointment of Erik Sewell",
+    "Capital increase by DCI AG for further development",
+    "Development of innovative card and stack format for product information"
+  ]
+}

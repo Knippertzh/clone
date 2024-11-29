@@ -1,0 +1,44 @@
+{
+  "name": "Sanjay Brahmawar",
+  "image": "https://www.softwareag.com/content/dam/softwareag/global/image/people/sanjay-brahmawar.jpg",
+  "currentRole": "CEO of Software AG",
+  "email": "info@softwareag.com",
+  "phone": "+49 6151 920",
+  "description": "Sanjay Brahmawar has been CEO of Software AG since August 2018. Prior to joining Software AG, he spent 18 years at IBM in various executive roles. His expertise spans digital transformation, AI, IoT, and cloud technologies.",
+  "workHistory": [
+    {
+      "company": "Software AG",
+      "position": "CEO",
+      "period": "2018 - Present"
+    },
+    {
+      "company": "IBM",
+      "position": "General Manager, Global Digital Sales",
+      "period": "2015 - 2018"
+    },
+    {
+      "company": "IBM",
+      "position": "Executive Various Positions",
+      "period": "2000 - 2015"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Digital Leader Award",
+      "year": "2020",
+      "description": "Excellence in digital transformation leadership"
+    },
+    {
+      "name": "IoT Leader of the Year",
+      "year": "2019",
+      "description": "Recognition for IoT innovation and leadership"
+    }
+  ],
+  "vision": "To unlock the power of data to shape a better connected world through integration, IoT, and business transformation technologies.",
+  "recentDevelopments": [
+    "Leading Software AG's Helix transformation strategy",
+    "Expanding cloud and subscription business",
+    "Strengthening IoT and integration platforms",
+    "Driving strategic partnerships and acquisitions"
+  ]
+}

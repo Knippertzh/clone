@@ -1,0 +1,60 @@
+{
+  "name": "Bill Gates",
+  "image": "https://img.etimg.com/thumb/width-640,height-480,imgsize-24874,resizemode-75,msid-89443805/magazines/panache/the-end-is-near-bill-gates-announces-new-book-says-covid-will-be-the-last-pandemic/this-news-will-cheer-you-up-and-drive-away-your-mid-week-blues-.jpg",
+  "currentRole": "Co-Chair, Bill & Melinda Gates Foundation",
+  "previousRole": "Co-founder and former CEO of Microsoft",
+  "email": "press@gatesfoundation.org",
+  "phone": "+1 (206) 709-3100",
+  "description": "Bill Gates co-founded Microsoft Corporation in 1975 and served as CEO until 2000. Under his leadership, Microsoft became the world's largest personal computer software company. He has since focused on philanthropic efforts through the Bill & Melinda Gates Foundation.",
+  "workHistory": [
+    {
+      "company": "Bill & Melinda Gates Foundation",
+      "position": "Co-Chair",
+      "period": "2000 - Present"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "position": "Chief Software Architect",
+      "period": "2000 - 2008"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "position": "CEO and Chairman",
+      "period": "1975 - 2000"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "position": "Co-founder",
+      "period": "1975"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Presidential Medal of Freedom",
+      "year": "2016",
+      "description": "Highest civilian honor in the United States"
+    },
+    {
+      "name": "Knight Commander of the Order of the British Empire",
+      "year": "2005",
+      "description": "Honorary knighthood for services to global healthcare and technology"
+    },
+    {
+      "name": "National Medal of Technology and Innovation",
+      "year": "1992",
+      "description": "For technical achievement in computer software"
+    },
+    {
+      "name": "Time Person of the Year",
+      "year": "2005",
+      "description": "Along with Melinda Gates and Bono for philanthropic work"
+    }
+  ],
+  "vision": "A world where every person has the opportunity to live a healthy, productive life through technology innovation and global healthcare initiatives.",
+  "recentDevelopments": [
+    "Leading global health initiatives through Gates Foundation",
+    "Investment in clean energy technologies",
+    "Climate change advocacy and research",
+    "Global pandemic response and preparedness"
+  ]
+}

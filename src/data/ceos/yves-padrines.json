@@ -1,0 +1,44 @@
+{
+  "name": "Yves Padrines",
+  "image": "https://www.nemetschek.com/fileadmin/user_upload/Yves_Padrines.jpg",
+  "currentRole": "CEO of Nemetschek SE",
+  "email": "info@nemetschek.com",
+  "phone": "+49 89 540459-0",
+  "description": "Yves Padrines has been CEO of the Nemetschek Group since March 2022. He brings extensive experience in software and technology leadership from his time at Cisco and other technology companies.",
+  "workHistory": [
+    {
+      "company": "Nemetschek SE",
+      "position": "CEO",
+      "period": "2022 - Present"
+    },
+    {
+      "company": "Cisco",
+      "position": "CEO EMEAR",
+      "period": "2016 - 2022"
+    },
+    {
+      "company": "Cisco",
+      "position": "Various Executive Positions",
+      "period": "2007 - 2016"
+    }
+  ],
+  "awards": [
+    {
+      "name": "BIM Innovation Award",
+      "year": "2023",
+      "description": "Excellence in Building Information Modeling"
+    },
+    {
+      "name": "Digital Construction Leader",
+      "year": "2022",
+      "description": "Innovation in AEC software solutions"
+    }
+  ],
+  "vision": "To lead the digital transformation of the AEC/O industry through innovative software solutions and drive sustainable building practices.",
+  "recentDevelopments": [
+    "Strengthening subscription and SaaS transition",
+    "Expanding BIM and digital twin capabilities",
+    "Driving AI integration in design software",
+    "Focusing on sustainable building solutions"
+  ]
+}

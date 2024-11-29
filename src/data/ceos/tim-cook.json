@@ -1,0 +1,44 @@
+{
+  "name": "Tim Cook",
+  "image": "https://www.apple.com/leadership/images/bio/tim-cook.jpg",
+  "currentRole": "CEO of Apple Inc.",
+  "email": "tcook@apple.com",
+  "phone": "+1 (408) 996-1010",
+  "description": "Tim Cook is the CEO of Apple and serves on its board of directors. Before being named CEO in August 2011, Tim was Apple's chief operating officer, responsible for the company's global supply chain and operational excellence.",
+  "workHistory": [
+    {
+      "company": "Apple Inc.",
+      "position": "CEO",
+      "period": "2011 - Present"
+    },
+    {
+      "company": "Apple Inc.",
+      "position": "COO",
+      "period": "2005 - 2011"
+    },
+    {
+      "company": "IBM",
+      "position": "Various Roles",
+      "period": "1982 - 1994"
+    }
+  ],
+  "awards": [
+    {
+      "name": "TIME 100 Most Influential People",
+      "year": "2022",
+      "description": "Leadership in technology and social responsibility"
+    },
+    {
+      "name": "Fortune's World's Greatest Leaders",
+      "year": "2015",
+      "description": "Excellence in business leadership"
+    }
+  ],
+  "vision": "To create the best products on earth, and to leave the world better than we found it.",
+  "recentDevelopments": [
+    "Launch of Vision Pro mixed reality headset",
+    "Expansion of services ecosystem",
+    "Commitment to environmental sustainability",
+    "Development of Apple silicon technology"
+  ]
+}

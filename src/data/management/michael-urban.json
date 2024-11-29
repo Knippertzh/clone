@@ -1,0 +1,62 @@
+{
+  "name": "Michael Urban",
+  "image": "https://images.channelpartner.de/bdb/2607595/1200x.jpg",
+  "currentRole": "Strategic Investor at Plugilo Inc.",
+  "email": "contact@plugilo.com",
+  "phone": "+1 (650) 555-0123",
+  "description": "Michael Urban is a seasoned technology executive with over 30 years of experience in the global IT market. He played a pivotal role in several major industry transformations, including the merger of SYNNEX and Tech Data to form TD SYNNEX.",
+  "workHistory": [
+    {
+      "company": "Plugilo Inc.",
+      "position": "Strategic Investor",
+      "period": "2024 - Present"
+    },
+    {
+      "company": "TD SYNNEX",
+      "position": "CEO Americas",
+      "period": "2021 - 2024"
+    },
+    {
+      "company": "SYNNEX",
+      "position": "CEO",
+      "period": "2019 - 2021"
+    },
+    {
+      "company": "Actebis (now ALSO)",
+      "position": "CEO",
+      "period": "2012 - 2019"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "TD SYNNEX Merger",
+      "description": "Led the successful merger creating a $57 billion revenue company",
+      "year": "2021"
+    },
+    {
+      "title": "Global Expansion",
+      "description": "Expanded operations to over 100 countries",
+      "year": "2023"
+    }
+  ],
+  "vision": "To transform plugilo into a global leader in product and database platforms, targeting 80% coverage in the worldwide e-commerce market.",
+  "investmentDetails": {
+    "company": "DCI AG / Plugilo Inc.",
+    "date": "2024-07-01",
+    "type": "Strategic Investment",
+    "role": "Active investor and strategic advisor",
+    "focus": [
+      "Global expansion strategy",
+      "US market entry",
+      "Sales and marketing development",
+      "Strategic partnerships"
+    ]
+  },
+  "expertise": [
+    "Global IT Distribution",
+    "Mergers & Acquisitions",
+    "Business Transformation",
+    "International Expansion",
+    "Strategic Planning"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Sundar Pichai",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sundar_pichai.max-1000x1000.jpg",
+  "currentRole": "CEO of Alphabet and Google",
+  "email": "press@abc.xyz",
+  "phone": "+1 (650) 253-0000",
+  "description": "Sundar Pichai is CEO of both Alphabet and Google. He previously led the development of Google Chrome and Chrome OS before becoming CEO. Under his leadership, Google has focused on AI, cloud computing, and innovative technologies.",
+  "workHistory": [
+    {
+      "company": "Alphabet Inc.",
+      "position": "CEO",
+      "period": "2019 - Present"
+    },
+    {
+      "company": "Google",
+      "position": "CEO",
+      "period": "2015 - Present"
+    },
+    {
+      "company": "Google",
+      "position": "Product Chief",
+      "period": "2014 - 2015"
+    }
+  ],
+  "awards": [
+    {
+      "name": "TIME 100 Most Influential People",
+      "year": "2020",
+      "description": "Leadership in technology"
+    },
+    {
+      "name": "Global Leadership Award",
+      "year": "2019",
+      "description": "Excellence in technology innovation"
+    }
+  ],
+  "vision": "To organize the world's information and make it universally accessible and useful through cutting-edge technology and AI.",
+  "recentDevelopments": [
+    "Launch of Gemini AI model",
+    "Expansion of cloud infrastructure",
+    "Investment in quantum computing",
+    "Advancement in AI research and applications"
+  ]
+}

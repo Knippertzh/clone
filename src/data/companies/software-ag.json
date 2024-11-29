@@ -1,0 +1,37 @@
+{
+  "id": "CORP-9990",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "Software AG",
+  "details": "Digital Business Platform Provider",
+  "requiredClearance": "PUBLIC",
+  "name": "Software AG",
+  "address": "Uhlandstraße 12",
+  "zipCode": "64297",
+  "city": "Darmstadt",
+  "country": "Germany",
+  "logo": "https://www.softwareag.com/content/dam/softwareag/global/image/logos/sag-logo-white.svg",
+  "images": [
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1573164713988-8665fc963095?auto=format&fit=crop&w=800"
+  ],
+  "category": ["SOFTWARE", "TECHNOLOGY", "INTEGRATION"],
+  "tags": ["IOT", "INTEGRATION", "CLOUD", "DIGITAL_TRANSFORMATION", "ENTERPRISE_SOFTWARE"],
+  "socialMedia": {
+    "twitter": "@SoftwareAG",
+    "linkedin": "software-ag"
+  },
+  "description": "Software AG offers the first end-to-end Digital Business Platform based on open standards, with integration, process management, adaptive application development, real-time analytics and enterprise architecture management as core building blocks.",
+  "sourceFound": "Company Website",
+  "ceo": "Sanjay Brahmawar",
+  "language": ["GERMAN", "ENGLISH"],
+  "taxId": "DE-111-719-457",
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

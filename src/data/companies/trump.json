@@ -1,0 +1,69 @@
+{
+  "id": "CORP-9993",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "The Trump Organization",
+  "details": "Real Estate Development and Hospitality Company",
+  "requiredClearance": "PUBLIC",
+  "name": "The Trump Organization",
+  "address": "725 Fifth Avenue",
+  "zipCode": "10022",
+  "city": "New York",
+  "country": "United States",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/TrumpVance2024.png",
+  "images": [
+    "https://media.cnn.com/api/v1/images/stellar/prod/170706132212-06-trump-merkel-g20.jpg"
+  ],
+  "category": ["REAL_ESTATE", "HOSPITALITY", "LUXURY"],
+  "tags": ["HOTELS", "GOLF_RESORTS", "RESIDENTIAL", "COMMERCIAL", "LICENSING"],
+  "socialMedia": {
+    "twitter": "@TrumpOrg",
+    "linkedin": "the-trump-organization"
+  },
+  "description": "The Trump Organization is a group of approximately 500 business entities of which Donald Trump is the principal owner. The organization owns and operates luxury real estate, hotels, golf courses, and various other business ventures worldwide.",
+  "sourceFound": "Company Website",
+  "ceo": "Donald J. Trump",
+  "language": ["ENGLISH"],
+  "taxId": "US-13-3024592",
+  "metrics": {
+    "trustScore": 78,
+    "dealProbability": 72,
+    "annualRevenue": 750,
+    "yearOverYearGrowth": 8.5,
+    "marketShare": 2.3,
+    "topProducts": [
+      {
+        "name": "Trump International Hotel & Tower",
+        "description": "Luxury hotel and residential properties",
+        "url": "https://www.trump.com/hotels",
+        "annualRevenue": 280
+      },
+      {
+        "name": "Trump Golf Portfolio",
+        "description": "Premium golf courses and resorts",
+        "url": "https://www.trump.com/golf",
+        "annualRevenue": 190
+      },
+      {
+        "name": "Trump Real Estate Portfolio",
+        "description": "Commercial and residential properties",
+        "url": "https://www.trump.com/real-estate-portfolio",
+        "annualRevenue": 160
+      },
+      {
+        "name": "Trump Licensing",
+        "description": "Brand licensing and partnerships",
+        "url": "https://www.trump.com/licensing",
+        "annualRevenue": 120
+      }
+    ]
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

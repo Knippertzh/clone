@@ -1,0 +1,12 @@
+{
+  "logs": [
+    {
+      "recordId": "CORP-8864",
+      "field": "ceo",
+      "timestamp": "2024-01-17T10:30:00Z",
+      "action": "verified",
+      "userId": "USER001",
+      "feedback": "CEO information verified through official company records"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Andy Jassy",
+  "image": "https://press.aboutamazon.com/system/files-encrypted/nasdaq_kms/leadership/Andy_Jassy_-_Copy.jpg",
+  "currentRole": "President and CEO of Amazon",
+  "email": "press@amazon.com",
+  "phone": "+1 (206) 266-1000",
+  "description": "Andy Jassy is the President and CEO of Amazon, having succeeded founder Jeff Bezos. Previously, he led Amazon Web Services (AWS) from its inception, growing it into the world's leading cloud platform.",
+  "workHistory": [
+    {
+      "company": "Amazon.com, Inc.",
+      "position": "President and CEO",
+      "period": "2021 - Present"
+    },
+    {
+      "company": "Amazon Web Services",
+      "position": "CEO",
+      "period": "2003 - 2021"
+    },
+    {
+      "company": "Amazon.com, Inc.",
+      "position": "Various Leadership Roles",
+      "period": "1997 - 2003"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Fortune Businessperson of the Year",
+      "year": "2016",
+      "description": "Leadership in cloud computing"
+    },
+    {
+      "name": "Cloud Computing Visionary",
+      "year": "2020",
+      "description": "Pioneering leadership in cloud services"
+    }
+  ],
+  "vision": "To be Earth's most customer-centric company, where customers can find and discover anything they might want to buy online.",
+  "recentDevelopments": [
+    "Expansion of AI capabilities and services",
+    "Growth in healthcare sector",
+    "Advancement in autonomous delivery systems",
+    "Strengthening of AWS market leadership"
+  ]
+}

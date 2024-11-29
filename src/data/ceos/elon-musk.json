@@ -1,0 +1,43 @@
+{
+  "name": "Elon Musk",
+  "image": "https://i.abcnewsfe.com/a/7d5c53c5-f5a7-40a6-9c99-648316b9f7a2/Elon-Musk-1-rt-jm-241016_1729107345064_hpMain_16x9.jpg?w=992",
+  "currentRole": "CEO and Product Architect",
+  "email": "press@tesla.com",
+  "phone": "+1 (888) 518-3752",
+  "description": "Elon Musk is an entrepreneur and business magnate who leads multiple companies including Tesla, SpaceX, and X (formerly Twitter). Known for his ambitious goals in sustainable energy and space exploration.",
+  "workHistory": [
+    {
+      "company": "Tesla, Inc.",
+      "position": "CEO and Product Architect",
+      "period": "2008 - Present"
+    },
+    {
+      "company": "SpaceX",
+      "position": "CEO and Chief Engineer",
+      "period": "2002 - Present"
+    },
+    {
+      "company": "X Corp (formerly Twitter)",
+      "position": "CEO",
+      "period": "2022 - Present"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Time Person of the Year",
+      "year": "2021",
+      "description": "Recognized for influence on society and industry"
+    },
+    {
+      "name": "Forbes Most Innovative Leaders",
+      "year": "2019",
+      "description": "Ranked #1 for innovative leadership"
+    }
+  ],
+  "vision": "To accelerate the world's transition to sustainable energy through electric vehicles and renewable energy products.",
+  "recentDevelopments": [
+    "Continued expansion of Tesla Gigafactories globally",
+    "Development of next-generation autonomous driving technology",
+    "Advancement in battery technology and energy storage solutions"
+  ]
+}

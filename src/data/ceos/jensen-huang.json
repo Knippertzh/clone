@@ -1,0 +1,44 @@
+{
+  "name": "Jensen Huang",
+  "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-ceo-jensen-huang-hero-shot-1920x1080.jpg",
+  "currentRole": "CEO and Founder of NVIDIA",
+  "email": "press@nvidia.com",
+  "phone": "+1 (408) 486-2000",
+  "description": "Jensen Huang co-founded NVIDIA in 1993 and has served as president, chief executive officer, and member of the board of directors since inception. Under his leadership, NVIDIA has become a leader in AI computing.",
+  "workHistory": [
+    {
+      "company": "NVIDIA Corporation",
+      "position": "CEO and Founder",
+      "period": "1993 - Present"
+    },
+    {
+      "company": "LSI Logic",
+      "position": "Director",
+      "period": "1990 - 1993"
+    },
+    {
+      "company": "AMD",
+      "position": "Microprocessor Designer",
+      "period": "1984 - 1990"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Harvard Business Review Best-Performing CEOs",
+      "year": "2019",
+      "description": "Excellence in business leadership"
+    },
+    {
+      "name": "EE Times Person of the Year",
+      "year": "2017",
+      "description": "Innovation in technology"
+    }
+  ],
+  "vision": "To be the world's premier computing company for the age of artificial intelligence.",
+  "recentDevelopments": [
+    "Leadership in AI computing solutions",
+    "Expansion of data center technologies",
+    "Advancement in autonomous vehicle platforms",
+    "Development of next-generation GPU architecture"
+  ]
+}

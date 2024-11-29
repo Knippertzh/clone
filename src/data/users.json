@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "USER001",
+      "username": "jhoover",
+      "password": "fbi1970",
+      "role": "OWNER",
+      "name": "J. Edgar Hoover",
+      "division": "DIRECTOR",
+      "permissions": [
+        "VERIFY",
+        "EDIT",
+        "DELETE",
+        "ADD_USERS",
+        "MODIFY_ROLES",
+        "EXPORT_DATA",
+        "ACCESS_AI",
+        "MANAGE_SYSTEM"
+      ]
+    },
+    {
+      "id": "USER002",
+      "username": "rpeters",
+      "password": "Plugilo2022",
+      "role": "MOD",
+      "name": "Ricarda Peters",
+      "division": "FIELD_OPS",
+      "email": "ricarda.peters@plugilo.com",
+      "permissions": [
+        "VERIFY",
+        "EDIT",
+        "EXPORT_DATA",
+        "ACCESS_AI"
+      ]
+    },
+    {
+      "id": "USER003",
+      "username": "pblanks",
+      "password": "Patrick82",
+      "role": "ADMIN",
+      "name": "Patrick Blanks",
+      "division": "ADMIN",
+      "email": "patrick.blanks@plugilo.com",
+      "permissions": [
+         "VERIFY",
+        "EDIT",
+        "DELETE",
+        "ADD_USERS",
+        "MODIFY_ROLES",
+        "EXPORT_DATA",
+        "ACCESS_AI",
+        "MANAGE_SYSTEM"
+      ]
+    },
+    {
+      "id": "USER004",
+      "username": "mmohr",
+      "password": "Plugilo2022",
+      "role": "OWNER",
+      "name": "Michael Mohr",
+      "division": "DIRECTOR",
+      "permissions": [
+        "VERIFY",
+        "EDIT",
+        "DELETE",
+        "ADD_USERS",
+        "MODIFY_ROLES",
+        "EXPORT_DATA",
+        "ACCESS_AI",
+        "MANAGE_SYSTEM"
+      ]
+    }
+  ]
+}

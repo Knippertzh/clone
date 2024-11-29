@@ -1,0 +1,85 @@
+{
+  "records": [
+    {
+      "id": "CORP-9981",
+      "status": "ACTIVE",
+      "level": "PUBLIC",
+      "lastAccessed": "2024-01-23",
+      "subject": "Tesla, Inc.",
+      "details": "Electric Vehicle and Clean Energy Company",
+      "requiredClearance": "PUBLIC",
+      "name": "Tesla, Inc.",
+      "address": "1 Tesla Road",
+      "zipCode": "78725",
+      "city": "Austin",
+      "country": "United States",
+      "logo": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1620891549027-942fdc95d3f5?auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1612810806695-30f7a8258391?auto=format&fit=crop&w=800"
+      ],
+      "category": ["AUTOMOTIVE", "ENERGY", "TECHNOLOGY"],
+      "tags": ["EV", "SOLAR", "BATTERIES", "AI", "ROBOTICS"],
+      "socialMedia": {
+        "twitter": "@tesla",
+        "linkedin": "tesla-motors"
+      },
+      "description": "Leading manufacturer of electric vehicles and clean energy solutions. Specializes in electric cars, battery energy storage, solar panels and solar roof tiles.",
+      "sourceFound": "COMPANY REGISTRY",
+      "ceo": "Elon Musk",
+      "ceoInfo": {
+        "name": "Elon Musk",
+        "image": "https://i.abcnewsfe.com/a/7d5c53c5-f5a7-40a6-9c99-648316b9f7a2/Elon-Musk-1-rt-jm-241016_1729107345064_hpMain_16x9.jpg?w=992",
+        "currentRole": "CEO and Product Architect",
+        "email": "press@tesla.com",
+        "phone": "+1 (888) 518-3752",
+        "description": "Elon Musk is an entrepreneur and business magnate who leads multiple companies including Tesla, SpaceX, and X (formerly Twitter). Known for his ambitious goals in sustainable energy and space exploration.",
+        "workHistory": [
+          {
+            "company": "Tesla, Inc.",
+            "position": "CEO and Product Architect",
+            "period": "2008 - Present"
+          },
+          {
+            "company": "SpaceX",
+            "position": "CEO and Chief Engineer",
+            "period": "2002 - Present"
+          },
+          {
+            "company": "X Corp (formerly Twitter)",
+            "position": "CEO",
+            "period": "2022 - Present"
+          }
+        ],
+        "awards": [
+          {
+            "name": "Time Person of the Year",
+            "year": "2021",
+            "description": "Recognized for influence on society and industry"
+          },
+          {
+            "name": "Forbes Most Innovative Leaders",
+            "year": "2019",
+            "description": "Ranked #1 for innovative leadership"
+          }
+        ],
+        "vision": "To accelerate the world's transition to sustainable energy through electric vehicles and renewable energy products.",
+        "recentDevelopments": [
+          "Continued expansion of Tesla Gigafactories globally",
+          "Development of next-generation autonomous driving technology",
+          "Advancement in battery technology and energy storage solutions"
+        ]
+      },
+      "language": ["ENGLISH", "CHINESE", "GERMAN"],
+      "taxId": "US-91-2197729",
+      "verificationStatus": {
+        "name": {
+          "verified": true,
+          "lastChecked": "2024-01-23T10:30:00Z",
+          "verifiedBy": "USER001"
+        }
+      }
+    }
+  ]
+}

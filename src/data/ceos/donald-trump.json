@@ -1,0 +1,44 @@
+{
+  "name": "Donald J. Trump",
+  "image": "https://www.rollingstone.com/wp-content/uploads/2024/10/trump-bibles-printing.jpg",
+  "currentRole": "Chairman and President of The Trump Organization",
+  "email": "press@trumporg.com",
+  "phone": "+1 (212) 832-2000",
+  "description": "Donald J. Trump is an American businessman, television personality, and politician who served as the 45th President of the United States. He is the founder and leader of The Trump Organization, a real estate development company.",
+  "workHistory": [
+    {
+      "company": "The Trump Organization",
+      "position": "Chairman and President",
+      "period": "1971 - Present"
+    },
+    {
+      "company": "United States of America",
+      "position": "45th President",
+      "period": "2017 - 2021"
+    },
+    {
+      "company": "The Apprentice",
+      "position": "Host and Executive Producer",
+      "period": "2004 - 2015"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Time Person of the Year",
+      "year": "2016",
+      "description": "Recognition for political impact"
+    },
+    {
+      "name": "Gaming Hall of Fame",
+      "year": "1995",
+      "description": "Contributions to casino industry"
+    }
+  ],
+  "vision": "To develop the most luxurious properties in the world and maintain the gold standard in real estate development.",
+  "recentDevelopments": [
+    "Expansion of global real estate portfolio",
+    "Development of new luxury properties",
+    "Brand licensing and partnerships",
+    "International business ventures"
+  ]
+}

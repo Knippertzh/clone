@@ -1,0 +1,37 @@
+{
+  "id": "CORP-9992",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "Nemetschek SE",
+  "details": "Software Provider for Architecture, Engineering and Construction",
+  "requiredClearance": "PUBLIC",
+  "name": "Nemetschek SE",
+  "address": "Konrad-Zuse-Platz 1",
+  "zipCode": "81829",
+  "city": "Munich",
+  "country": "Germany",
+  "logo": "https://www.nemetschek.com/fileadmin/template/img/nemetschek-logo.svg",
+  "images": [
+    "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=800"
+  ],
+  "category": ["SOFTWARE", "TECHNOLOGY", "AEC"],
+  "tags": ["BIM", "CAD", "CONSTRUCTION", "ARCHITECTURE", "ENGINEERING"],
+  "socialMedia": {
+    "twitter": "@Nemetschek",
+    "linkedin": "nemetschek"
+  },
+  "description": "Nemetschek SE is a leading global software provider for the AEC/O (Architecture, Engineering, Construction, and Operations) industry. The company's software solutions cover the entire lifecycle of building and infrastructure projects.",
+  "sourceFound": "Company Website",
+  "ceo": "Yves Padrines",
+  "language": ["GERMAN", "ENGLISH"],
+  "taxId": "DE-129-386-820",
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

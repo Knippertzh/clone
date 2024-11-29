@@ -1,0 +1,38 @@
+{
+  "id": "CORP-9981",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "Tesla, Inc.",
+  "details": "Electric Vehicle and Clean Energy Company",
+  "requiredClearance": "PUBLIC",
+  "name": "Tesla, Inc.",
+  "address": "1 Tesla Road",
+  "zipCode": "78725",
+  "city": "Austin",
+  "country": "United States",
+  "logo": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=300",
+  "images": [
+    "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1620891549027-942fdc95d3f5?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1612810806695-30f7a8258391?auto=format&fit=crop&w=800"
+  ],
+  "category": ["AUTOMOTIVE", "ENERGY", "TECHNOLOGY"],
+  "tags": ["EV", "SOLAR", "BATTERIES", "AI", "ROBOTICS"],
+  "socialMedia": {
+    "twitter": "@tesla",
+    "linkedin": "tesla-motors"
+  },
+  "description": "Leading manufacturer of electric vehicles and clean energy solutions. Specializes in electric cars, battery energy storage, solar panels and solar roof tiles.",
+  "sourceFound": "Company Website",
+  "ceo": "Elon Musk",
+  "language": ["ENGLISH", "CHINESE", "GERMAN"],
+  "taxId": "US-91-2197729",
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

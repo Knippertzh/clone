@@ -1,0 +1,44 @@
+{
+  "name": "Christian Klein",
+  "image": "https://www.sap.com/dam/application/shared/photos/people/christian-klein.jpg",
+  "currentRole": "CEO of SAP SE",
+  "email": "press@sap.com",
+  "phone": "+49 6227 74774",
+  "description": "Christian Klein became sole CEO of SAP in 2020. Starting his career at SAP as a student in 1999, he has held various positions including COO and has been instrumental in driving SAP's digital transformation and cloud strategy.",
+  "workHistory": [
+    {
+      "company": "SAP SE",
+      "position": "CEO",
+      "period": "2020 - Present"
+    },
+    {
+      "company": "SAP SE",
+      "position": "COO",
+      "period": "2016 - 2020"
+    },
+    {
+      "company": "SAP SE",
+      "position": "CFO, SAP SuccessFactors",
+      "period": "2011 - 2016"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Capital 40 under 40",
+      "year": "2019",
+      "description": "Recognition as one of Germany's top young business leaders"
+    },
+    {
+      "name": "Digital Innovation Leader",
+      "year": "2021",
+      "description": "For driving SAP's cloud transformation"
+    }
+  ],
+  "vision": "To help the world run better and improve people's lives through technology innovation and sustainable enterprise solutions.",
+  "recentDevelopments": [
+    "Leading SAP's RISE initiative for business transformation",
+    "Accelerating cloud strategy and growth",
+    "Driving sustainability solutions development",
+    "Expanding AI and machine learning capabilities"
+  ]
+}

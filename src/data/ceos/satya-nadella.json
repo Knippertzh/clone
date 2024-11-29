@@ -1,0 +1,44 @@
+{
+  "name": "Satya Nadella",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg",
+  "currentRole": "Chairman and CEO",
+  "email": "press@microsoft.com",
+  "phone": "+1 (425) 882-8080",
+  "description": "Satya Nadella is Chairman and CEO of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company.",
+  "workHistory": [
+    {
+      "company": "Microsoft Corporation",
+      "position": "Chairman and CEO",
+      "period": "2014 - Present"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "position": "EVP, Cloud and Enterprise",
+      "period": "2011 - 2014"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "position": "Various Leadership Roles",
+      "period": "1992 - 2011"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Financial Times Person of the Year",
+      "year": "2019",
+      "description": "Recognized for transforming Microsoft"
+    },
+    {
+      "name": "Fortune Businessperson of the Year",
+      "year": "2019",
+      "description": "Leadership in cloud computing and enterprise technology"
+    }
+  ],
+  "vision": "To empower every person and every organization on the planet to achieve more.",
+  "recentDevelopments": [
+    "Major investments in artificial intelligence and OpenAI partnership",
+    "Expansion of cloud computing services globally",
+    "Acquisition of Activision Blizzard",
+    "Integration of AI across Microsoft's product portfolio"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "CORP-9982",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "Plugilo Inc.",
+  "details": "Digital Content and E-commerce Solutions Provider",
+  "requiredClearance": "PUBLIC",
+  "name": "Plugilo Inc.",
+  "address": "Street XXXX",
+  "zipCode": "33613",
+  "city": "Tampa Bay",
+  "country": "United States",
+  "state": "FL",
+  "logo": "https://media.licdn.com/dms/image/v2/C510BAQFHjRgsdFfvqg/company-logo_200_200/company-logo_200_200/0/1631357389267?e=2147483647&t=ajhBZcx4kpHg5uDUU6ynZeVFWg2zGpmUVNCTiyuE3TU&v=beta",
+  "images": [
+    "https://plugilo.de/images/start/02/main.png",
+    "https://www.crn.de/news/2024/media_149b72beca7889edce5e6b6f9148c2238c6f8c347.png?format=pjpg&optimize=medium&width=1200"
+  ],
+  "category": ["SOFTWARE", "E-COMMERCE", "TECHNOLOGY"],
+  "tags": [
+    {
+      "name": "B2B",
+      "source": "https://plugilo.de/about",
+      "description": "Primary business model from company website"
+    },
+    {
+      "name": "B2C",
+      "source": "https://plugilo.de/solutions",
+      "description": "Extended market reach from solutions page"
+    },
+    {
+      "name": "E-COMMERCE",
+      "source": "https://plugilo.de/platform",
+      "description": "Core platform functionality"
+    },
+    {
+      "name": "DIGITAL_CONTENT",
+      "source": "https://plugilo.de/features",
+      "description": "Key product feature"
+    },
+    {
+      "name": "TECHNOLOGY_SOLUTIONS",
+      "source": "https://plugilo.de/technology",
+      "description": "Technology stack overview"
+    },
+    {
+      "name": "GLOBAL_EXPANSION",
+      "source": "https://plugilo.de/about#vision",
+      "description": "Strategic vision and roadmap"
+    }
+  ],
+  "socialMedia": {
+    "linkedin": "https://www.linkedin.com/company/plugilo"
+  },
+  "description": "Plugilo is a digital content and e-commerce solutions provider that enhances global e-commerce market solutions for both B2B and B2C customers. The platform offers users control over products and content through an innovative card and stack format, enabling saving, sharing, and utilizing product information across websites with cross-device synchronization.",
+  "sourceFound": "Company Website",
+  "ceo": "Michael Mohr",
+  "management": [
+    {
+      "name": "Michael Mohr",
+      "position": "CEO and Founder",
+      "image": "https://cdn.prod.www.manager-magazin.de/images/fb09bcd7-0001-0005-0000-000000093723_w135_r0.75_fpx49.63_fpy37.23.jpg"
+    },
+    {
+      "name": "Michael Urban",
+      "position": "Strategic Investor and Board Member",
+      "image": "https://images.channelpartner.de/bdb/2607595/1200x.jpg",
+      "description": "Former CEO of TD SYNNEX Americas, brings over 30 years of global IT distribution experience",
+      "responsibilities": [
+        "Global expansion strategy",
+        "US market development",
+        "Strategic partnerships",
+        "Investment oversight"
+      ]
+    }
+  ],
+  "keyInvestors": [
+    {
+      "name": "Michael Urban",
+      "role": "Strategic Investor",
+      "image": "https://images.channelpartner.de/bdb/2607595/1200x.jpg",
+      "description": "Former CEO of TD SYNNEX Americas and key strategic investor in DCI AG",
+      "investmentDate": "2024-07-01",
+      "background": "Over 30 years of experience in global IT distribution",
+      "previousRoles": [
+        "CEO of TD SYNNEX Americas",
+        "CEO of Actebis (now ALSO)",
+        "Leader of SYNNEX-Tech Data merger"
+      ],
+      "vision": "To establish plugilo as a global leader in product and database platforms, targeting 80% coverage in worldwide e-commerce"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Contentful",
+      "url": "www.contentful.com",
+      "description": "Content management platform"
+    },
+    {
+      "name": "Shopify",
+      "url": "www.shopify.com",
+      "description": "E-commerce platform"
+    },
+    {
+      "name": "BigCommerce",
+      "url": "www.bigcommerce.com",
+      "description": "E-commerce platform"
+    }
+  ],
+  "language": ["ENGLISH", "GERMAN"],
+  "taxId": "US-94065-2024",
+  "metrics": {
+    "trustScore": 85,
+    "dealProbability": 78,
+    "annualRevenue": 42.5,
+    "yearOverYearGrowth": 156,
+    "marketShare": 0.8,
+    "bookmarkSystem": {
+      "features": [
+        {
+          "name": "Cross-Device Synchronization",
+          "description": "Seamlessly sync bookmarks across all devices",
+          "url": "https://plugilo.de/features/sync"
+        },
+        {
+          "name": "Smart Collections",
+          "description": "Organize bookmarks into intelligent collections",
+          "url": "https://plugilo.de/features/collections"
+        },
+        {
+          "name": "AI-Powered Tagging",
+          "description": "Automatic content categorization and tagging",
+          "url": "https://plugilo.de/features/ai-tagging"
+        },
+        {
+          "name": "Collaborative Sharing",
+          "description": "Share and collaborate on bookmark collections",
+          "url": "https://plugilo.de/features/sharing"
+        },
+        {
+          "name": "Content Analytics",
+          "description": "Insights and analytics for saved content",
+          "url": "https://plugilo.de/features/analytics"
+        }
+      ]
+    }
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

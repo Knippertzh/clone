@@ -1,0 +1,39 @@
+{
+  "name": "Mark Zuckerberg",
+  "image": "https://about.meta.com/wp-content/uploads/2019/01/mark-zuckerberg.jpg",
+  "currentRole": "CEO and Founder of Meta",
+  "email": "press@meta.com",
+  "phone": "+1 (650) 543-4800",
+  "description": "Mark Zuckerberg is the founder and CEO of Meta, which he originally founded as Facebook in 2004. He is driving the company's vision for the metaverse and social connection.",
+  "workHistory": [
+    {
+      "company": "Meta Platforms, Inc.",
+      "position": "CEO and Founder",
+      "period": "2004 - Present"
+    },
+    {
+      "company": "Facebook",
+      "position": "CEO and Founder",
+      "period": "2004 - 2021"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Time Person of the Year",
+      "year": "2010",
+      "description": "Impact on social connectivity"
+    },
+    {
+      "name": "Forbes 400",
+      "year": "2023",
+      "description": "Leading technology innovator"
+    }
+  ],
+  "vision": "To help bring the metaverse to life and create immersive social experiences that connect people in new ways.",
+  "recentDevelopments": [
+    "Development of metaverse technologies",
+    "Advancement in AI and machine learning",
+    "Investment in virtual and augmented reality",
+    "Launch of Threads social platform"
+  ]
+}

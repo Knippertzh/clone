@@ -1,0 +1,37 @@
+{
+  "id": "CORP-9987",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "NVIDIA Corporation",
+  "details": "Graphics and Computing Technology Company",
+  "requiredClearance": "PUBLIC",
+  "name": "NVIDIA Corporation",
+  "address": "2788 San Tomas Expressway",
+  "zipCode": "95051",
+  "city": "Santa Clara",
+  "country": "United States",
+  "logo": "https://www.nvidia.com/favicon.ico",
+  "images": [
+    "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1587202372616-b43abea06c2f?auto=format&fit=crop&w=800"
+  ],
+  "category": ["TECHNOLOGY", "SEMICONDUCTORS", "AI"],
+  "tags": ["GPU", "AI", "GAMING", "DATA_CENTER", "AUTOMOTIVE"],
+  "socialMedia": {
+    "twitter": "@nvidia",
+    "linkedin": "nvidia"
+  },
+  "description": "NVIDIA Corporation is a technology company that designs graphics processing units for gaming and professional markets, as well as system on chip units for mobile computing and automotive markets.",
+  "sourceFound": "Company Website",
+  "ceo": "Jensen Huang",
+  "language": ["ENGLISH", "MULTIPLE"],
+  "taxId": "US-94-3177549",
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

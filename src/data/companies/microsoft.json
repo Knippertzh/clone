@@ -1,0 +1,77 @@
+{
+  "id": "CORP-9983",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "Microsoft Corporation",
+  "details": "Global Technology and Software Company",
+  "requiredClearance": "PUBLIC",
+  "name": "Microsoft Corporation",
+  "address": "One Microsoft Way",
+  "zipCode": "98052",
+  "city": "Redmond",
+  "country": "United States",
+  "logo": "https://www.microsoft.com/favicon.ico",
+  "images": [
+    "https://images.unsplash.com/photo-1642132652075-2b0c0ff27c38?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?auto=format&fit=crop&w=800"
+  ],
+  "category": ["SOFTWARE", "CLOUD", "TECHNOLOGY"],
+  "tags": ["ENTERPRISE", "CLOUD", "AI", "GAMING", "PRODUCTIVITY"],
+  "socialMedia": {
+    "twitter": "@Microsoft",
+    "linkedin": "microsoft"
+  },
+  "description": "Microsoft Corporation is a multinational technology company that develops, manufactures, and sells computer software, consumer electronics, and personal computers.",
+  "sourceFound": "Company Website",
+  "ceo": "Satya Nadella",
+  "previousCEOs": ["Bill Gates", "Steve Ballmer"],
+  "language": ["ENGLISH", "MULTIPLE"],
+  "taxId": "US-91-0725712",
+  "metrics": {
+    "trustScore": 92,
+    "dealProbability": 85,
+    "annualRevenue": 198800,
+    "yearOverYearGrowth": 18.6,
+    "marketShare": 21.5,
+    "topProducts": [
+      {
+        "name": "Microsoft Azure",
+        "description": "Cloud computing and AI platform for enterprise solutions",
+        "url": "https://azure.microsoft.com",
+        "annualRevenue": 75000
+      },
+      {
+        "name": "Microsoft 365",
+        "description": "Productivity and collaboration suite including Office applications",
+        "url": "https://www.microsoft.com/microsoft-365",
+        "annualRevenue": 45000
+      },
+      {
+        "name": "Windows",
+        "description": "Operating system for personal and enterprise computing",
+        "url": "https://www.microsoft.com/windows",
+        "annualRevenue": 22000
+      },
+      {
+        "name": "Xbox Gaming",
+        "description": "Gaming consoles, games, and subscription services",
+        "url": "https://www.xbox.com",
+        "annualRevenue": 15000
+      },
+      {
+        "name": "Dynamics 365",
+        "description": "Enterprise resource planning and CRM solutions",
+        "url": "https://dynamics.microsoft.com",
+        "annualRevenue": 12000
+      }
+    ]
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

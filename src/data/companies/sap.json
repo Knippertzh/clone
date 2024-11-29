@@ -1,0 +1,76 @@
+{
+  "id": "CORP-9989",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "SAP SE",
+  "details": "Enterprise Software and Cloud Solutions Provider",
+  "requiredClearance": "PUBLIC",
+  "name": "SAP SE",
+  "address": "Dietmar-Hopp-Allee 16",
+  "zipCode": "69190",
+  "city": "Walldorf",
+  "country": "Germany",
+  "logo": "https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg",
+  "images": [
+    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=800"
+  ],
+  "category": ["SOFTWARE", "TECHNOLOGY", "ENTERPRISE"],
+  "tags": ["ERP", "CLOUD", "AI", "ANALYTICS", "ENTERPRISE_SOFTWARE"],
+  "socialMedia": {
+    "twitter": "@SAP",
+    "linkedin": "sap"
+  },
+  "description": "SAP is a market leader in enterprise application software, helping companies of all sizes and in all industries run at their best. SAP's machine learning, Internet of Things (IoT), and advanced analytics technologies help turn customers' businesses into intelligent enterprises.",
+  "sourceFound": "Company Website",
+  "ceo": "Christian Klein",
+  "language": ["GERMAN", "ENGLISH"],
+  "taxId": "DE-143-454-214",
+  "metrics": {
+    "trustScore": 89,
+    "dealProbability": 82,
+    "annualRevenue": 30800,
+    "yearOverYearGrowth": 14.2,
+    "marketShare": 23.8,
+    "topProducts": [
+      {
+        "name": "SAP S/4HANA",
+        "description": "Intelligent ERP system for digital business",
+        "url": "https://www.sap.com/products/s4hana-erp.html",
+        "annualRevenue": 12000
+      },
+      {
+        "name": "SAP Business Technology Platform",
+        "description": "Integrated platform for data and analytics",
+        "url": "https://www.sap.com/products/technology-platform.html",
+        "annualRevenue": 8000
+      },
+      {
+        "name": "SAP SuccessFactors",
+        "description": "Human Experience Management Suite",
+        "url": "https://www.sap.com/products/human-resources-hcm.html",
+        "annualRevenue": 4500
+      },
+      {
+        "name": "SAP Customer Experience",
+        "description": "Customer engagement and commerce solutions",
+        "url": "https://www.sap.com/products/crm.html",
+        "annualRevenue": 3500
+      },
+      {
+        "name": "SAP Business One",
+        "description": "ERP solution for small businesses",
+        "url": "https://www.sap.com/products/business-one.html",
+        "annualRevenue": 2800
+      }
+    ]
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}

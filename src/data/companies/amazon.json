@@ -1,0 +1,37 @@
+{
+  "id": "CORP-9988",
+  "status": "ACTIVE",
+  "level": "PUBLIC",
+  "lastAccessed": "2024-01-23",
+  "subject": "Amazon.com, Inc.",
+  "details": "E-commerce and Cloud Computing Company",
+  "requiredClearance": "PUBLIC",
+  "name": "Amazon.com, Inc.",
+  "address": "410 Terry Avenue North",
+  "zipCode": "98109",
+  "city": "Seattle",
+  "country": "United States",
+  "logo": "https://www.amazon.com/favicon.ico",
+  "images": [
+    "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1620288627223-53302f4e8c74?auto=format&fit=crop&w=800"
+  ],
+  "category": ["E-COMMERCE", "CLOUD", "TECHNOLOGY"],
+  "tags": ["RETAIL", "AWS", "AI", "LOGISTICS", "STREAMING"],
+  "socialMedia": {
+    "twitter": "@amazon",
+    "linkedin": "amazon"
+  },
+  "description": "Amazon.com, Inc. is a global technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+  "sourceFound": "Company Website",
+  "ceo": "Andy Jassy",
+  "language": ["ENGLISH", "MULTIPLE"],
+  "taxId": "US-91-1646860",
+  "verificationStatus": {
+    "name": {
+      "verified": true,
+      "lastChecked": "2024-01-23T10:30:00Z",
+      "verifiedBy": "USER001"
+    }
+  }
+}
