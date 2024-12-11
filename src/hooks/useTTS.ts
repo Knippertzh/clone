@@ -1,5 +1,22 @@
 import { useCallback } from 'react';
 
+/**
+ * A custom hook that provides text-to-speech functionality using the Web Speech API.
+ *
+ * This hook returns an object containing a `speak` function that can be used to convert
+ * text into speech. It checks for browser support for speech synthesis and configures
+ * the speech settings such as rate, pitch, and volume. It also attempts to select a
+ * neutral English voice if available.
+ *
+ * @returns {Object} An object containing the `speak` function.
+ * @returns {Function} speak - A function that takes a string as input and converts it to speech.
+ *
+ * @example
+ * const { speak } = useTTS();
+ * speak("Hello, how are you?");
+ *
+ * @throws {Error} Throws an error if the browser does not support speech synthesis.
+ */
 export const useTTS = () => {
   const speak = useCallback((text: string) => {
     // Check if browser supports speech synthesis
